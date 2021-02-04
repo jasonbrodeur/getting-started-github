@@ -26,6 +26,7 @@ This is my ordered list
 1. First thing
 2. Second thing
 3. Third thing
+4. Fourth thing
 
 This is an unordered list
 - first thing
@@ -49,6 +50,7 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+Cats | Dogs
 
 # Emoji 
 :rofl:
