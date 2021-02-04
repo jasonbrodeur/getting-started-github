@@ -31,6 +31,7 @@ This is my ordered list
 This is an unordered list
 - first thing
 - second thing
+- third thing
 
 # Hyperlink
 
